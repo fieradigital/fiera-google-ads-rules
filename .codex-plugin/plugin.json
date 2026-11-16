@@ -22,10 +22,10 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Fiera Google Ads Rules",
-    "shortDescription": "The Google Ads rules our agents follow, free to use in your accounts",
+    "shortDescription": "Google Ads rules for AI agents",
     "longDescription": "These are the rules Fiera's agents follow every day in the Google Ads accounts we manage: API behaviours the documentation doesn't mention, readings of data that mislead, and decisions we've seen go well and badly. Two skills help you start in read-only mode and build a context file for your account, and an audit skill reviews an account without changing anything. The rules are written in Spanish.",
     "developerName": "Fiera",
-    "category": "Productivity",
+    "category": "Business & Operations",
     "capabilities": [
       "Interactive",
       "Read",
@@ -39,8 +39,9 @@
       "Build the context file for my Google Ads account",
       "Check this GAQL query against known Google Ads API gotchas"
     ],
-    "brandColor": "#E8C840",
+    "brandColor": "#8A6D00",
     "composerIcon": "./assets/icon.png",
-    "logo": "./assets/icon.png"
+    "logo": "./assets/icon.png",
+    "supportURL": "https://github.com/fieradigital/fiera-google-ads-rules/issues"
   }
 }

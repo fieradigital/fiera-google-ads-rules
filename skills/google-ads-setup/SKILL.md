@@ -1,6 +1,6 @@
 ---
 name: google-ads-setup
-description: Guía para montar desde cero un agente que trabaje con Google Ads de forma segura. Usar cuando alguien quiere empezar a usar un agente (Claude Code, Codex, Cursor u otro) con su cuenta de Google Ads, no sabe cómo conectarlo, o pregunta cómo instalar estas reglas o comprobar que la conexión funciona.
+description: "Guía para montar desde cero un agente que trabaje con Google Ads de forma segura. Usar cuando alguien quiere empezar a usar un agente (Claude Code, Codex, Cursor u otro) con su cuenta de Google Ads, no sabe cómo conectarlo, o pregunta cómo instalar estas reglas o comprobar que la conexión funciona."
 ---
 
 # Montar un agente para Google Ads

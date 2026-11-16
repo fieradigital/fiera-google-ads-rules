@@ -1,6 +1,6 @@
 ---
 name: google-ads-account-context
-description: Crea o actualiza account-context.md, el fichero de contexto de una cuenta de Google Ads (negocio, objetivos, buckets de campañas, contrato de medición, marca y reglas de copy). Usar al empezar a trabajar con una cuenta nueva, cuando no existe account-context.md, o cuando el usuario pide revisar el contexto tras un cambio grande.
+description: "Crea o actualiza account-context.md, el fichero de contexto de una cuenta de Google Ads (negocio, objetivos, buckets de campañas, contrato de medición, marca y reglas de copy). Usar al empezar a trabajar con una cuenta nueva, cuando no existe account-context.md, o cuando el usuario pide revisar el contexto tras un cambio grande."
 ---
 
 # Contexto de una cuenta

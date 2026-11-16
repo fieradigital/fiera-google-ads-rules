@@ -1,6 +1,6 @@
 ---
 name: google-ads-bidding-measurement
-description: Reglas de pujas, Smart Bidding, portfolios, budgets, pacing, objetivos de conversión, tracking, lag y atribución en Google Ads. Usar al leer o cambiar targets de puja, revisar presupuestos y pacing, auditar objetivos y acciones de conversión, o interpretar conversiones que maduran.
+description: "Reglas de pujas, Smart Bidding, portfolios, budgets, pacing, objetivos de conversión, tracking, lag y atribución en Google Ads. Usar al leer o cambiar targets de puja, revisar presupuestos y pacing, auditar objetivos y acciones de conversión, o interpretar conversiones que maduran."
 ---
 
 # Pujas, budgets y medición

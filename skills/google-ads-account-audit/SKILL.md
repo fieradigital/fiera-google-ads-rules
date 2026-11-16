@@ -1,6 +1,6 @@
 ---
 name: google-ads-account-audit
-description: Workflow de auditoría de una cuenta de Google Ads en solo lectura: universo de campañas, conversiones, targets, estructura, keywords, negativas, search terms, presupuesto, anuncios, configuración e historial de cambios. Usar al recibir una cuenta nueva o en la revisión anual de una cuenta activa.
+description: "Workflow de auditoría de una cuenta de Google Ads en solo lectura: universo de campañas, conversiones, targets, estructura, keywords, negativas, search terms, presupuesto, anuncios, configuración e historial de cambios. Usar al recibir una cuenta nueva o en la revisión anual de una cuenta activa."
 ---
 
 # Auditoría de cuenta

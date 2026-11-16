@@ -1,6 +1,6 @@
 ---
 name: google-ads-copy-assets-pmax
-description: Reglas de copy de RSA, extensiones y assets, Performance Max, Demand Gen, campañas App, estructura, geo y landing pages en Google Ads. Usar al escribir o editar anuncios, revisar extensiones, leer o modificar PMax y Demand Gen, crear o duplicar campañas, o configurar geo.
+description: "Reglas de copy de RSA, extensiones y assets, Performance Max, Demand Gen, campañas App, estructura, geo y landing pages en Google Ads. Usar al escribir o editar anuncios, revisar extensiones, leer o modificar PMax y Demand Gen, crear o duplicar campañas, o configurar geo."
 ---
 
 # Copy, assets, PMax y estructura

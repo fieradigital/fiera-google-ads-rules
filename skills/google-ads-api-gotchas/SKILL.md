@@ -1,6 +1,6 @@
 ---
 name: google-ads-api-gotchas
-description: Gotchas de la Google Ads API, GAQL y el cliente Python, y reglas para mutar sin romper la cuenta. Usar al escribir o revisar consultas GAQL, scripts con la librería google-ads, mutaciones (create, update, remove), lecturas de change_event, cuotas y niveles de acceso de la API, creación de campañas, PMax o Demand Gen por API, y exports de Auction Insights.
+description: "Gotchas de la Google Ads API, GAQL y el cliente Python, y reglas para mutar sin romper la cuenta. Usar al escribir o revisar consultas GAQL, scripts con la librería google-ads, mutaciones (create, update, remove), lecturas de change_event, cuotas y niveles de acceso de la API, creación de campañas, PMax o Demand Gen por API, y exports de Auction Insights."
 ---
 
 # API de Google Ads, GAQL y mutaciones

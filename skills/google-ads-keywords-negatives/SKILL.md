@@ -1,6 +1,6 @@
 ---
 name: google-ads-keywords-negatives
-description: Reglas de keywords, search terms, match types, AI Max, negativas, Keyword Planner y Quality Score en Google Ads. Usar al auditar o añadir negativas, leer search terms, decidir match types, dar de alta keywords, dimensionar demanda con Keyword Planner o interpretar Quality Score.
+description: "Reglas de keywords, search terms, match types, AI Max, negativas, Keyword Planner y Quality Score en Google Ads. Usar al auditar o añadir negativas, leer search terms, decidir match types, dar de alta keywords, dimensionar demanda con Keyword Planner o interpretar Quality Score."
 ---
 
 # Keywords, search terms y negativas

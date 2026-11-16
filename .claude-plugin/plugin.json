@@ -1,0 +1,22 @@
+{
+  "name": "fiera-google-ads-rules",
+  "version": "1.0.0",
+  "description": "Reglas abiertas de Fiera para Google Ads: guía de setup en solo lectura, contexto de cuenta, gotchas de API y GAQL, keywords y negativas, copy, assets y PMax, pujas y medición, y un workflow de auditoría de cuenta en solo lectura.",
+  "author": {
+    "name": "Fiera",
+    "url": "https://fiera.digital"
+  },
+  "homepage": "https://github.com/fieradigital/fiera-google-ads-rules",
+  "repository": "https://github.com/fieradigital/fiera-google-ads-rules",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "google-ads",
+    "gaql",
+    "ppc",
+    "skills"
+  ],
+  "skills": [
+    "./skills/google-ads-setup",
+    "./skills/google-ads-account-context"
+  ]
+}

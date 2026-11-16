@@ -1,0 +1,26 @@
+{
+  "name": "fiera-google-ads-rules",
+  "owner": {
+    "name": "Fiera",
+    "url": "https://fiera.digital"
+  },
+  "metadata": {
+    "description": "Reglas abiertas de Fiera para Google Ads, como Agent Skills.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "fiera-google-ads-rules",
+      "source": "./",
+      "description": "Reglas abiertas de Fiera para Google Ads: guía de setup en solo lectura, contexto de cuenta, gotchas de API y GAQL, keywords y negativas, copy, assets y PMax, pujas y medición, y un workflow de auditoría de cuenta en solo lectura.",
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "category": "marketing",
+      "tags": [
+        "google-ads",
+        "ppc",
+        "gaql"
+      ]
+    }
+  ]
+}

@@ -36,6 +36,8 @@ En Claude Code, añade el marketplace e instala el plugin:
 /plugin install fiera-google-ads-rules@fiera-google-ads-rules
 ```
 
+En ChatGPT, instálalo con un clic desde la [ficha del plugin](https://chatgpt.com/plugins/plugins_6afb1685ec2481918aea58af2ceda674).
+
 Si usas otro agente que lea ficheros `SKILL.md`, como Codex o Cursor, copia la carpeta `skills/` en el directorio de skills de tu agente. Cada skill funciona sola, aunque la auditoría cita reglas de las otras y todas leen `account-context.md` si existe.
 
 ## Cómo está escrita cada regla
